@@ -1,7 +1,7 @@
 import React from "react";
-import { HiMail } from 'react-icons/hi';
-import { BsWhatsapp } from 'react-icons/bs';
-import { RiMapPinFill} from 'react-icons/ri';
+import { HiMail } from "react-icons/hi";
+import { BsWhatsapp } from "react-icons/bs";
+import { RiMapPinFill} from "react-icons/ri";
 
 
 const Contact = () => {

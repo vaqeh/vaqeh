@@ -1,8 +1,8 @@
 import React from "react";
-import { FaHtml5, FaCss3, FaNodeJs, FaReact } from 'react-icons/fa';
-import { SiMongodb,SiTailwindcss,SiPostman ,SiLinuxmint} from 'react-icons/si';
-import { TbBrandNextjs} from 'react-icons/tb';
-import { IoLogoFirebase } from 'react-icons/io5';
+import { FaHtml5, FaCss3, FaNodeJs, FaReact } from "react-icons/fa";
+import { SiMongodb,SiTailwindcss,SiPostman ,SiLinuxmint} from "react-icons/si";
+import { TbBrandNextjs} from "react-icons/tb";
+import { IoLogoFirebase } from "react-icons/io5";
 
 
 

@@ -1,5 +1,5 @@
 import React from "react";
-import { HiChatBubbleOvalLeftEllipsis } from 'react-icons/hi2';
+import { HiChatBubbleOvalLeftEllipsis } from "react-icons/hi2";
 
 const Bot = () => {
   return (
